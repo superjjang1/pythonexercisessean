@@ -1,0 +1,5 @@
+print("Fill in the blanks, to complete the sentence")
+print("This is _____, their favorite subject in school is _______.")
+name = input("Enter a name: ")
+school_subject = input("Favorite school subject: ")
+print("This is " + name + ", their favorite subject in school is " + school_subject + ".")
